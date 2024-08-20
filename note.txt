@@ -1,0 +1,18 @@
+Class Bootstrap
+- align-items-center = vertikal tengah
+- align-items-start = vertikal atas
+- align-items-end = vertikal bawah
+- img-fluid = untuk mengecilkan gambar. menyesuaikan space yang dimiliki.
+- container-fluid = ngepas-in viewnya
+
+margin
+my = margin vertikal (atas bawah)
+mx = margin horizontal (kanan kiri)
+mt = margin top (atas)
+mb = margin bottom (bawah)
+ms = margin start (kiri)
+me = margin end (kanan)
+
+cara pakai = my-1, my-2, my-3, my-4, my-5
+my-8 (TIDAK BISA!!!!!)
+ukuran Bootstrap 1-5, kalau mau lebih bisa custom di vanilla css
